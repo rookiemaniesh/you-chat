@@ -1,0 +1,4 @@
+youtube_transcript_api 
+langchain_google_genai
+langchain_community
+lanchain_core
